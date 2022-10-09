@@ -1,0 +1,868 @@
+,Spanish,English,Type,Class
+0,A bocajarro,Close Combat,Tipo lucha,Clase físico
+1,A defender,Defend Order,Tipo bicho,Clase de estado
+2,Abatidoras,Worry Seed,Tipo planta,Clase de estado
+3,Absorbefuerza,Strength Sap,Tipo planta,Clase de estado
+4,Absorber,Absorb,Tipo planta,Clase especial
+5,Ácido,Acid,Tipo veneno,Clase especial
+6,Ácido málico,Apple Acid,Tipo planta,Clase especial
+7,Acoso,Infestation,Tipo bicho,Clase especial
+8,Acróbata,Acrobatics,Tipo volador,Clase físico
+9,Acua aro,Aqua Ring,Tipo agua,Clase de estado
+10,Acua cola,Aqua Tail,Tipo agua,Clase físico
+11,Acua jet,Aqua Jet,Tipo agua,Clase físico
+12,Acupresión,Acupressure,Tipo normal,Clase de estado
+13,Adaptación,Nature Power,Tipo normal,Clase de estado
+14,Aerochorro,Aeroblast,Tipo volador,Clase especial
+15,Afilagarras,Hone Claws,Tipo siniestro,Clase de estado
+16,Afilar,Sharpen,Tipo normal,Clase de estado
+17,Agarre,Vise Grip,Tipo normal,Clase físico
+18,Agarrón,Crush Grip,Tipo normal,Clase físico
+19,Agilidad,Agility,Tipo psíquico,Clase de estado
+20,Agua lodosa,Muddy Water,Tipo agua,Clase especial
+21,Aguante,Endure,Tipo normal,Clase de estado
+22,Aguijón letal,Fell Stinger,Tipo bicho,Clase físico
+23,Agujero negro aniquilador,Black Hole Eclipse,Tipo siniestro,Clase físico
+24,Aguzar,Laser Focus,Tipo normal,Clase de estado
+25,Aire afilado,Air Cutter,Tipo volador,Clase especial
+26,Al ataque,Attack Order,Tipo bicho,Clase físico
+27,Ala aural,Esper Wing,Tipo psíquico,Clase especial
+28,Ala bis,Dual Wingbeat,Tipo volador,Clase físico
+29,Ala de acero,Steel Wing,Tipo acero,Clase físico
+30,Ala mortífera,Oblivion Wing,Tipo volador,Clase especial
+31,Alarido,Snarl,Tipo siniestro,Clase especial
+32,Alboroto,Uproar,Tipo normal,Clase especial
+33,Aligerar,Autotomize,Tipo acero,Clase de estado
+34,Alivio,Refresh,Tipo normal,Clase de estado
+35,Allanador férreo,Steel Roller,Tipo acero,Clase físico
+36,Alquitranazo,Tar Shot,Tipo roca,Clase de estado
+37,Alto voltaje,Rising Voltage,Tipo eléctrico,Clase especial
+38,Alud,Avalanche,Tipo hielo,Clase físico
+39,Aluvión de flechas sombrías,Sinister Arrow Raid,Tipo fantasma,Clase físico
+40,Amago,Feint,Tipo normal,Clase físico
+41,Amnesia,Amnesia,Tipo psíquico,Clase de estado
+42,Amortiguador,Soft-Boiled,Tipo normal,Clase de estado
+43,Amplificador,Overdrive,Tipo eléctrico,Clase de estado
+44,Anclaje,Anchor Shot,Tipo acero,Clase físico
+45,Anegar,Soak,Tipo agua,Clase de estado
+46,Anillo ígneo,Blast Burn,Tipo fuego,Clase especial
+47,Antiaéreo,Smack Down,Tipo roca,Clase físico
+48,Anticipo,Quick Guard,Tipo lucha,Clase de estado
+49,Anticura,Heal Block,Tipo psíquico,Clase de estado
+50,Antojo,Covet,Tipo normal,Clase físico
+51,Anulación,Disable,Tipo normal,Clase de estado
+52,Aplastamiento gigalítico,Continental Crush,Tipo roca,Clase físico
+53,Arañazo,Scratch,Tipo normal,Clase físico
+54,Arenas ardientes,Scorching Sands,Tipo tierra,Clase especial
+55,Aria burbuja,Sparkling Aria,Tipo agua,Clase especial
+56,Ariete,Head Charge,Tipo normal,Clase físico
+57,Armadura ácida,Acid Armor,Tipo veneno,Clase de estado
+58,Aromaterapia,Aromatherapy,Tipo planta,Clase de estado
+59,Arraigo,Ingrain,Tipo planta,Clase de estado
+60,Arremetida,Headlong Rush,Tipo tierra,Clase físico
+61,Arrojo intempestivo,Pulverizing Pancake,Tipo normal,Clase físico
+62,Arrumaco,Heart Stamp,Tipo psíquico,Clase físico
+63,Arrumaco sideral,Twinkle Tackle,Tipo hada,Clase físico
+64,As oculto,Trump Card,Tipo normal,Clase especial
+65,Asalto barrera,Psyshield Bash,Tipo psíquico,Clase físico
+66,Asalto estelar,Meteor Assault,Tipo lucha,Clase físico
+67,Ascenso draco,Dragon Ascent,Tipo volador,Clase físico
+68,Ascuas,Ember,Tipo fuego,Clase especial
+69,Asta drenaje5,Horn Leech,Tipo planta,Clase físico
+70,Atadura,Bind,Tipo normal,Clase físico
+71,Ataque aéreo,Sky Attack,Tipo volador,Clase físico
+72,Ataque ala6,Wing Attack,Tipo volador,Clase físico
+73,Ataque arena7,Sand Attack,Tipo tierra,Clase de estado
+74,Ataque fulgor,Bolt Strike,Tipo eléctrico,Clase físico
+75,Ataque furia,Fury Attack,Tipo normal,Clase físico
+76,Ataque óseo,Bone Rush,Tipo tierra,Clase físico
+77,Ataque rápido,Quick Attack,Tipo normal,Clase físico
+78,Atiborramiento,Stuff Cheeks,Tipo normal,Clase de estado
+79,Atizar9,Slam,Tipo normal,Clase físico
+80,Atracción,Attract,Tipo normal,Clase de estado
+81,Aullido,Howl,Tipo normal,Clase de estado
+82,Aura magnética,Magnetic Flux,Tipo eléctrico,Clase de estado
+83,Autodestrucción,Self-Destruct,Tipo normal,Clase físico
+84,Autotomía,Shed Tail,Tipo ???,Clase de estado
+85,Auxilio,Heal Order,Tipo bicho,Clase de estado
+86,Avalancha,Rock Slide,Tipo roca,Clase físico
+87,Avivar,Work Up,Tipo normal,Clase de estado
+88,Ayuda,Assist,Tipo normal,Clase de estado
+89,Azote,Flail,Tipo normal,Clase físico
+90,Azote torrencial,Surging Strikes,Tipo agua,Clase físico
+91,Balón ígneo,Pyro Ball,Tipo fuego,Clase físico
+92,Bálsamo osado,Take Heart,Tipo psíquico,Clase de estado
+93,Barrena telúrica,Tectonic Rage,Tipo tierra,Clase físico
+94,Barrera,Barrier,Tipo psíquico,Clase de estado
+95,Barrera espinosa,Spiky Shield,Tipo planta,Clase de estado
+96,Bastión final,No Retreat,Tipo lucha,Clase de estado
+97,Batería asalto,Drum Beating,Tipo planta,Clase físico
+98,Batido,Milk Drink,Tipo normal,Clase de estado
+99,Beso amoroso,Lovely Kiss,Tipo normal,Clase de estado
+100,Beso drenaje,Draining Kiss,Tipo hada,Clase especial
+101,Beso dulce,Sweet Kiss,Tipo hada,Clase de estado
+102,Bilis,Gastro Acid,Tipo veneno,Clase de estado
+103,Bloqueo,Block,Tipo normal,Clase de estado
+104,Bofetón lodo11,Mud-Slap,Tipo tierra,Clase especial
+105,Bola de polen,Pollen Puff,Tipo bicho,Clase especial
+106,Bola hielo,Ice Ball,Tipo hielo,Clase físico
+107,Bola neblina,Mist Ball,Tipo psíquico,Clase especial
+108,Bola sombra,Shadow Ball,Tipo fantasma,Clase especial
+109,Bola voltio,Electro Ball,Tipo eléctrico,Clase especial
+110,Bomba ácida,Acid Spray,Tipo veneno,Clase especial
+111,Bomba fango,Mud Bomb,Tipo tierra,Clase especial
+112,Bomba germen,Seed Bomb,Tipo planta,Clase físico
+113,Bomba huevo,Egg Bomb,Tipo normal,Clase físico
+114,Bomba ígnea,Searing Shot,Tipo fuego,Clase especial
+115,Bomba imán,Magnet Bomb,Tipo acero,Clase físico
+116,Bomba lodo,Sludge Bomb,Tipo veneno,Clase especial
+117,Bomba sónica,Sonic Boom,Tipo normal,Clase especial
+118,Bombardeo13,Barrage,Tipo normal,Clase físico
+119,Bostezo,Yawn,Tipo normal,Clase de estado
+120,Bote,Bounce,Tipo volador,Clase físico
+121,Branquibocado,Fishious Rend,Tipo agua,Clase físico
+122,Brazo pincho,Needle Arm,Tipo planta,Clase físico
+123,Brecha negra,Dark Void,Tipo siniestro,Clase de estado
+124,Brillo mágico,Dazzling Gleam,Tipo hada,Clase especial
+125,Bruma explosiva,Misty Explosion,Tipo hada,Clase especial
+126,Buceo,Dive,Tipo agua,Clase físico
+127,Bucle arena,Sand Tomb,Tipo tierra,Clase físico
+128,Buena baza,Assurance,Tipo siniestro,Clase físico
+129,Búnker,Baneful Bunker,Tipo veneno,Clase de estado
+130,Burbuja,Bubble,Tipo agua,Clase especial
+131,Cabeza de hierro14,Iron Head,Tipo acero,Clase físico
+132,Cabeza sorpresa,Mind Blown,Tipo fuego,Clase especial
+133,Cabezazo,Skull Bash,Tipo normal,Clase físico
+134,Cabezazo zen,Zen Headbutt,Tipo psíquico,Clase físico
+135,Caída libre,Sky Drop,Tipo volador,Clase físico
+136,Calcinación,Incinerate,Tipo fuego,Clase especial
+137,Camaradería,Play Nice,Tipo normal,Clase de estado
+138,Cambia almas,Heart Swap,Tipo psíquico,Clase de estado
+139,Cambiadefensa15,Guard Swap,Tipo psíquico,Clase de estado
+140,Cambiafuerza16,Power Swap,Tipo psíquico,Clase de estado
+141,Cambiapoder,Power Shift,Tipo normal,Clase de estado
+142,Cambiavelocidad17,Speed Swap,Tipo psíquico,Clase de estado
+143,Cambio de banda18,Ally Switch,Tipo psíquico,Clase de estado
+144,Cambio de cancha,Court Change,Tipo normal,Clase de estado
+145,Cambio de marcha19,Shift Gear,Tipo acero,Clase de estado
+146,Camelo,Flatter,Tipo siniestro,Clase de estado
+147,Campana cura,Heal Bell,Tipo normal,Clase de estado
+148,Campo de hierba,Grassy Terrain,Tipo planta,Clase de estado
+149,Campo de niebla,Misty Terrain,Tipo hada,Clase de estado
+150,Campo eléctrico,Electric Terrain,Tipo eléctrico,Clase de estado
+151,Campo psíquico,Psychic Terrain,Tipo psíquico,Clase de estado
+152,Camuflaje,Camouflage,Tipo normal,Clase de estado
+153,Canon,Round,Tipo normal,Clase especial
+154,Canto,Sing,Tipo normal,Clase de estado
+155,Canto arcaico,Relic Song,Tipo normal,Clase especial
+156,Canto helado,Ice Shard,Tipo hielo,Clase físico
+157,Canto mortal,Perish Song,Tipo normal,Clase de estado
+158,Cañón armadura,Armor Cannon,Tipo fuego,Clase especial
+159,Cañón Dinamax,Dynamax Cannon,Tipo dragón,Clase especial
+160,Cañón floral,Fleur Cannon,Tipo hada,Clase especial
+161,Capa mágica,Magic Coat,Tipo psíquico,Clase de estado
+162,Cara susto,Scary Face,Tipo normal,Clase de estado
+163,Carámbano,Icicle Spear,Tipo hielo,Clase físico
+164,Carantoña,Play Rough,Tipo hada,Clase físico
+165,Carga,Charge,Tipo eléctrico,Clase de estado
+166,Carga dragón,Dragon Rush,Tipo dragón,Clase físico
+167,Carga parábola,Parabolic Charge,Tipo eléctrico,Clase especial
+168,Carga tóxica20,Venoshock,Tipo veneno,Clase especial
+169,Carrera arrolladora,Breakneck Blitz,Tipo normal,Clase físico
+170,Cascada,Waterfall,Tipo agua,Clase físico
+171,Castigo,Punishment,Tipo siniestro,Clase físico
+172,Cautivapor,Strange Steam,Tipo hada,Clase especial
+173,Cede paso,After You,Tipo normal,Clase de estado
+174,Celebración,Celebrate,Tipo normal,Clase de estado
+175,Cepo,Snap Trap,Tipo planta,Clase físico
+176,Cerco dimensión,Hyperspace Fury,Tipo siniestro,Clase físico
+177,Cerrojo feérico,Fairy Lock,Tipo hada,Clase de estado
+178,Cháchara,Chatter,Tipo volador,Clase especial
+179,Chapoteo lodo21,Mud Sport,Tipo tierra,Clase de estado
+180,Chirrido,Screech,Tipo normal,Clase de estado
+181,Chispa,Spark,Tipo eléctrico,Clase físico
+182,Chispazo,Discharge,Tipo eléctrico,Clase especial
+183,Choque anímico,Spirit Break,Tipo hada,Clase físico
+184,Chorro de vapor,Steam Eruption,Tipo agua,Clase especial
+185,Chulería,Power Trip,Tipo siniestro,Clase físico
+186,Chupavidas,Leech Life,Tipo bicho,Clase físico
+187,Chuzos,Icicle Crash,Tipo hielo,Clase físico
+188,Ciclón,Twister,Tipo dragón,Clase especial
+189,Ciclón de hojas22,Leaf Tornado,Tipo planta,Clase especial
+190,Ciclón primavera,Springtide Storm,Tipo hada,Clase especial
+191,Clavo cañón,Spike Cannon,Tipo normal,Clase físico
+192,Clemencia,Hold Back,Tipo normal,Clase físico
+193,Clonatipo,Reflect Type,Tipo normal,Clase de estado
+194,Clorofiláser,Chloroblast,Tipo planta,Clase especial
+195,Cola dragón,Dragon Tail,Tipo dragón,Clase físico
+196,Cola férrea,Iron Tail,Tipo acero,Clase físico
+197,Cola veneno,Poison Tail,Tipo veneno,Clase físico
+198,Cólera del guardián,Guardian of Alola,Tipo hada,Clase especial
+199,Colmillo hielo,Ice Fang,Tipo hielo,Clase físico
+200,Colmillo ígneo,Fire Fang,Tipo fuego,Clase físico
+201,Colmillo rayo,Thunder Fang,Tipo eléctrico,Clase físico
+202,Colmillo veneno,Poison Fang,Tipo veneno,Clase físico
+203,Comesueños23,Dream Eater,Tipo psíquico,Clase especial
+204,Cometa draco,Draco Meteor,Tipo dragón,Clase especial
+205,Concha filo,Razor Shell,Tipo agua,Clase físico
+206,Condena silvana,Forest's Curse,Tipo planta,Clase de estado
+207,Confidencia,Confide,Tipo normal,Clase de estado
+208,Confusión,Confusion,Tipo psíquico,Clase especial
+209,Conjuro,Lucky Chant,Tipo normal,Clase de estado
+210,Conjuro funesto,Eerie Spell,Tipo psíquico,Clase especial
+211,Constelación robaalmas,Soul-Stealing 7-Star Strike,Tipo fantasma,Clase físico
+212,Constricción24,Wrap,Tipo normal,Clase físico
+213,Contoneo,Swagger,Tipo normal,Clase de estado
+214,Contraataque25,Counter,Tipo lucha,Clase físico
+215,Conversión,Conversion,Tipo normal,Clase de estado
+216,Conversión2,Conversion 2,Tipo normal,Clase de estado
+217,Copión,Copycat,Tipo normal,Clase de estado
+218,Coraza trampa,Shell Trap,Tipo fuego,Clase especial
+219,Cornada,Horn Attack,Tipo normal,Clase físico
+220,Corpulencia,Bulk Up,Tipo lucha,Clase de estado
+221,Corte,Cut,Tipo normal,Clase físico
+222,Corte furia26,Fury Cutter,Tipo bicho,Clase físico
+223,Corte vacío,Spacial Rend,Tipo dragón,Clase especial
+224,Cortina plasma,Ion Deluge,Tipo eléctrico,Clase de estado
+225,Cosquillas,Tickle,Tipo normal,Clase de estado
+226,Crioaliento despiadado,Subzero Slammer,Tipo hielo,Clase físico
+227,Cuchilla solar,Solar Blade,Tipo planta,Clase físico
+228,Cuchillada,Slash,Tipo normal,Clase físico
+229,Cuerno certero,Smart Strike,Tipo acero,Clase físico
+230,Cuerpo pesado27,Heavy Slam,Tipo acero,Clase físico
+231,Cura floral,Floral Healing,Tipo hada,Clase de estado
+232,Cura selvática,Jungle Healing,Tipo planta,Clase de estado
+233,Danza aleteo,Quiver Dance,Tipo bicho,Clase de estado
+234,Danza amiga,Entrainment,Tipo normal,Clase de estado
+235,Danza caos,Teeter Dance,Tipo normal,Clase de estado
+236,Danza despertar,Revelation Dance,Tipo normal,Clase especial
+237,Danza dragón,Dragon Dance,Tipo dragón,Clase de estado
+238,Danza espada,Swords Dance,Tipo normal,Clase de estado
+239,Danza llama,Fiery Dance,Tipo fuego,Clase especial
+240,Danza lluvia,Rain Dance,Tipo agua,Clase de estado
+241,Danza lunar,Lunar Dance,Tipo psíquico,Clase de estado
+242,Danza pétalo,Petal Dance,Tipo planta,Clase especial
+243,Danza pluma,Feather Dance,Tipo volador,Clase de estado
+244,Danza triunfal,Victory Dance,Tipo lucha,Clase de estado
+245,Daño secreto,Secret Power,Tipo normal,Clase físico
+246,Decoración,Decorate,Tipo hada,Clase de estado
+247,Defensa férrea,Iron Defense,Tipo acero,Clase de estado
+248,Defensa floral,Flower Shield,Tipo hada,Clase de estado
+249,Deflagración lunar,Menacing Moonraze Maelstrom,Tipo fantasma,Clase especial
+250,Demolición,Brick Break,Tipo lucha,Clase físico
+251,Derribo,Take Down,Tipo normal,Clase físico
+252,Desahogo,Lash Out,Tipo siniestro,Clase físico
+253,Desarme,Knock Off,Tipo siniestro,Clase físico
+254,Desarrollo,Growth,Tipo normal,Clase de estado
+255,Descanso,Rest,Tipo psíquico,Clase de estado
+256,Deseo,Wish,Tipo normal,Clase de estado
+257,Deseo cura,Healing Wish,Tipo psíquico,Clase de estado
+258,Deseo oculto,Doom Desire,Tipo acero,Clase especial
+259,Deslumbrar,Glare,Tipo normal,Clase de estado
+260,Despejar,Defog,Tipo volador,Clase de estado
+261,Desquite,Revenge,Tipo lucha,Clase físico
+262,Destello,Flash,Tipo normal,Clase de estado
+263,Destructor,Pound,Tipo normal,Clase físico
+264,Detección,Detect,Tipo lucha,Clase de estado
+265,Día de pago,Pay Day,Tipo normal,Clase físico
+266,Día soleado,Sunny Day,Tipo fuego,Clase de estado
+267,Diluvio corrosivo,Acid Downpour,Tipo veneno,Clase físico
+268,Disparo certero,Snipe Shot,Tipo agua,Clase especial
+269,Disparo demora,String Shot,Tipo bicho,Clase de estado
+270,Disparo espejo,Mirror Shot,Tipo acero,Clase especial
+271,Disparo lodo,Mud Shot,Tipo tierra,Clase especial
+272,Disruptor psíquico,Shattered Psyche,Tipo psíquico,Clase físico
+273,Distorsión,Roar of Time,Tipo dragón,Clase especial
+274,Divide dolor,Pain Split,Tipo normal,Clase de estado
+275,Doble ataque28,Twineedle,Tipo bicho,Clase físico
+276,Doble bofetón29,Double Slap,Tipo normal,Clase físico
+277,Doble equipo,Double Team,Tipo normal,Clase de estado
+278,Doble filo,Double-Edge,Tipo normal,Clase físico
+279,Doble golpe,Double Hit,Tipo normal,Clase físico
+280,Doble patada,Double Kick,Tipo lucha,Clase físico
+281,Doble rayo,Signal Beam,Tipo bicho,Clase especial
+282,Don natural,Natural Gift,Tipo normal,Clase físico
+283,Dracoaliento devastador,Devastating Drake,Tipo dragón,Clase físico
+284,Dracoenergía,Dragon Energy,Tipo dragón,Clase especial
+285,Dracoflechas,Dragon Darts,Tipo dragón,Clase físico
+286,Dragoaliento,Dragon Breath,Tipo dragón,Clase especial
+287,Drenadoras,Leech Seed,Tipo planta,Clase de estado
+288,Dulce aroma,Sweet Scent,Tipo normal,Clase de estado
+289,Eco metálico,Metal Sound,Tipo acero,Clase de estado
+290,Eco voz,Echoed Voice,Tipo normal,Clase especial
+291,Eevimpacto,Veevee Volley,Tipo normal,Clase físico
+292,Electormenta,Wildbolt Storm,Tipo eléctrico,Clase especial
+293,Electrificación,Electrify,Tipo eléctrico,Clase de estado
+294,Electrocañón,Zap Cannon,Tipo eléctrico,Clase especial
+295,Electrojaula,Thunder Cage,Tipo eléctrico,Clase especial
+296,Electropico,Bolt Beak,Tipo eléctrico,Clase físico
+297,Electropunzada,Zing Zap,Tipo eléctrico,Clase físico
+298,Electrotela,Electroweb,Tipo eléctrico,Clase especial
+299,Embargo,Embargo,Tipo siniestro,Clase de estado
+300,Embate supremo,Behemoth Bash,Tipo acero,Clase físico
+301,Embestida solar,Searing Sunraze Smash,Tipo acero,Clase físico
+302,Empujón,Arm Thrust,Tipo lucha,Clase físico
+303,Encanto,Charm,Tipo hada,Clase de estado
+304,Energibola,Energy Ball,Tipo planta,Clase especial
+305,Enfado,Outrage,Tipo dragón,Clase físico
+306,Enrosque,Coil,Tipo veneno,Clase de estado
+307,Envidia ardiente,Burning Jealousy,Tipo fuego,Clase especial
+308,Envite acuático,Wave Crash,Tipo agua,Clase físico
+309,Envite ígneo,Flare Blitz,Tipo fuego,Clase físico
+310,Eructo,Belch,Tipo veneno,Clase especial
+311,Erupción de ira,Raging Fury,Tipo fuego,Clase físico
+312,Escaldar,Scald,Tipo agua,Clase especial
+313,Escaramuza,First Impression,Tipo bicho,Clase físico
+314,Escudo real,King's Shield,Tipo acero,Clase de estado
+315,Escudo tatami,Mat Block,Tipo lucha,Clase de estado
+316,Escupir,Spit Up,Tipo normal,Clase especial
+317,Esfera aural,Aura Sphere,Tipo lucha,Clase especial
+318,Esfuerzo,Endeavor,Tipo normal,Clase físico
+319,Espabila,Wake-Up Slap,Tipo lucha,Clase físico
+320,Espacio raro,Trick Room,Tipo psíquico,Clase de estado
+321,Espada lamento,Bitter Blade,Tipo fuego,Clase físico
+322,Espada santa,Sacred Sword,Tipo lucha,Clase físico
+323,Espeaura,Glitzy Glow,Tipo psíquico,Clase especial
+324,Espejo30,Mirror Move,Tipo volador,Clase de estado
+325,Espora,Spore,Tipo planta,Clase de estado
+326,Esporagodón,Cotton Spore,Tipo planta,Clase de estado
+327,Esquema,Sketch,Tipo normal,Clase de estado
+328,Estallido,Eruption,Tipo fuego,Clase especial
+329,Estímulo,Smelling Salts,Tipo normal,Clase físico
+330,Estoicismo,Struggle Bug,Tipo bicho,Clase especial
+331,Estruendo,Boomburst,Tipo normal,Clase especial
+332,Estruendo escama,Clangorous Soul,Tipo dragón,Clase de estado
+333,Estruendo implacable,Clangorous Soulblaze,Tipo dragón,Clase especial
+334,Estrujón,Wring Out,Tipo normal,Clase especial
+335,Excavar,Dig,Tipo tierra,Clase físico
+336,Explosión,Explosion,Tipo normal,Clase físico
+337,Falso tortazo31,False Swipe,Tipo normal,Clase físico
+338,Ferropuño doble,Double Iron Bash,Tipo acero,Clase físico
+339,Fertilizante,Rototiller,Tipo tierra,Clase de estado
+340,Fijar blanco,Lock-On,Tipo normal,Clase de estado
+341,Filo del abismo,Precipice Blades,Tipo tierra,Clase físico
+342,Finta,Feint Attack,Tipo siniestro,Clase físico
+343,Fisura,Fissure,Tipo tierra,Clase físico
+344,Fitoimpulso,Grassy Glide,Tipo planta,Clase físico
+345,Flarembestida,Sizzly Slide,Tipo fuego,Clase físico
+346,Foco,Spotlight,Tipo normal,Clase de estado
+347,Foco energía,Focus Energy,Tipo normal,Clase de estado
+348,Foco resplandor,Flash Cannon,Tipo acero,Clase especial
+349,Fogonazo,Seed Flare,Tipo planta,Clase especial
+350,Follaje,Leafage,Tipo planta,Clase físico
+351,Forcejeo,Struggle,Tipo normal,Clase físico
+352,Fortaleza,Harden,Tipo normal,Clase de estado
+353,Fotodestrucción apocalíptica,Light That Burns the Sky,Tipo psíquico,Clase especial
+354,Fragor escamas,Clanging Scales,Tipo dragón,Clase especial
+355,Frío polar,Sheer Cold,Tipo hielo,Clase especial
+356,Frustración,Frustration,Tipo normal,Clase físico
+357,Fuego fatuo,Will-O-Wisp,Tipo fuego,Clase de estado
+358,Fuego sagrado32,Sacred Fire,Tipo fuego,Clase físico
+359,Fuerza,Strength,Tipo normal,Clase físico
+360,Fuerza bruta,Superpower,Tipo lucha,Clase físico
+361,Fuerza equina,High Horsepower,Tipo tierra,Clase físico
+362,Fuerza G,Grav Apple,Tipo planta,Clase físico
+363,Fuerza lunar,Moonblast,Tipo hada,Clase especial
+364,Fuerza telúrica,Land's Wrath,Tipo tierra,Clase físico
+365,Furia,Rage,Tipo normal,Clase físico
+366,Furia candente,Fiery Wrath,Tipo siniestro,Clase especial
+367,Furia dragón,Dragon Rage,Tipo dragón,Clase especial
+368,Furia natural,Nature's Madness,Tipo hada,Clase especial
+369,Gancho alto,Sky Uppercut,Tipo lucha,Clase físico
+370,Garra brutal,Crush Claw,Tipo normal,Clase físico
+371,Garra dragón,Dragon Claw,Tipo dragón,Clase físico
+372,Garra metal,Metal Claw,Tipo acero,Clase físico
+373,Garra nociva,Dire Claw,Tipo veneno,Clase físico
+374,Garra umbría,Shadow Claw,Tipo fantasma,Clase físico
+375,Gas corrosivo,Corrosive Gas,Tipo veneno,Clase de estado
+376,Gas venenoso,Poison Gas,Tipo veneno,Clase de estado
+377,Géiser fotónico,Photon Geyser,Tipo psíquico,Clase especial
+378,Geocontrol,Geomancy,Tipo hada,Clase de estado
+379,Gigaaparición,G-Max Terror,Tipo fantasma,Clase físico
+380,Gigabóveda,G-Max Gravitas,Tipo psíquico,Clase físico
+381,Gigacañonazo,G-Max Cannonade,Tipo agua,Clase físico
+382,Gigacastigo,G-Max Smite,Tipo hada,Clase físico
+383,Gigacienfuegos,G-Max Centiferno,Tipo fuego,Clase físico
+384,Gigacolofón,G-Max Finale,Tipo hada,Clase físico
+385,Gigacorrosión,G-Max Tartness,Tipo planta,Clase físico
+386,Gigadescarga,G-Max Stun Shock,Tipo eléctrico,Clase físico
+387,Gigadesgaste,G-Max Depletion,Tipo dragón,Clase físico
+388,Gigadisparo,G-Max Hydrosnipe,Tipo agua,Clase físico
+389,Gigadrenado33,Giga Drain,Tipo planta,Clase especial
+390,Gigaesfera ígnea,G-Max Fireball,Tipo fuego,Clase físico
+391,Gigaespuma,G-Max Foam Burst,Tipo agua,Clase físico
+392,Gigaestupor,G-Max Befuddle,Tipo bicho,Clase físico
+393,Gigafundido,G-Max Meltdown,Tipo acero,Clase físico
+394,Gigagolpe brusco,G-Max One Blow,Tipo siniestro,Clase físico
+395,Gigagolpe fluido,G-Max Rapid Flow,Tipo agua,Clase físico
+396,Gigahuracán,G-Max Wind Rage,Tipo volador,Clase físico
+397,Gigaimpacto34,Giga Impact,Tipo normal,Clase físico
+398,Gigalianas,G-Max Vine Lash,Tipo planta,Clase físico
+399,Gigallamarada,G-Max Wildfire,Tipo fuego,Clase físico
+400,Gigamelodía,G-Max Resonance,Tipo hielo,Clase físico
+401,Gigamonedas,G-Max Gold Rush,Tipo normal,Clase físico
+402,Giganéctar,G-Max Sweetness,Tipo planta,Clase físico
+403,Gigapestilencia,G-Max Malodor,Tipo veneno,Clase físico
+404,Gigapolvareda,G-Max Sandblast,Tipo tierra,Clase físico
+405,Gigapuñición,G-Max Chi Strike,Tipo lucha,Clase físico
+406,Gigarrayo fulminante,"10,000,000 Volt Thunderbolt",Tipo eléctrico,Clase especial
+407,Gigarreciclaje,G-Max Replenish,Tipo normal,Clase físico
+408,Gigarredoble,G-Max Drum Solo,Tipo planta,Clase físico
+409,Gigarroca ígnea,G-Max Volcalith,Tipo roca,Clase físico
+410,Gigasopor,G-Max Snooze,Tipo siniestro,Clase físico
+411,Gigaternura,G-Max Cuddle,Tipo normal,Clase físico
+412,Gigatrampa acero,G-Max Steelsurge,Tipo acero,Clase físico
+413,Gigatrampa rocas,G-Max Stonesurge,Tipo agua,Clase físico
+414,Gigatronada,G-Max Volt Crash,Tipo eléctrico,Clase físico
+415,Gigavoltio destructor,Gigavolt Havoc,Tipo eléctrico,Clase físico
+416,Giro bola,Gyro Ball,Tipo acero,Clase físico
+417,Giro fuego,Fire Spin,Tipo fuego,Clase especial
+418,Giro rápido,Rapid Spin,Tipo normal,Clase físico
+419,Giro vil,Brutal Swing,Tipo siniestro,Clase físico
+420,Glaceoprisma,Freezy Frost,Tipo hielo,Clase especial
+421,Golpe,Thrash,Tipo normal,Clase físico
+422,Golpe aéreo,Aerial Ace,Tipo volador,Clase físico
+423,Golpe bajo,Sucker Punch,Tipo siniestro,Clase físico
+424,Golpe bis,Dual Chop,Tipo dragón,Clase físico
+425,Golpe cabeza,Headbutt,Tipo normal,Clase físico
+426,Golpe calor,Heat Crash,Tipo fuego,Clase físico
+427,Golpe cuerpo,Body Slam,Tipo normal,Clase físico
+428,Golpe fantasma,Phantom Force,Tipo fantasma,Clase físico
+429,Golpe kárate35,Karate Chop,Tipo lucha,Clase físico
+430,Golpe mordaza,Throat Chop,Tipo siniestro,Clase físico
+431,Golpe oscuro,Wicked Blow,Tipo siniestro,Clase físico
+432,Golpe rastrero,Skitter Smack,Tipo bicho,Clase físico
+433,Golpe roca,Rock Smash,Tipo lucha,Clase físico
+434,Golpe umbrío,Shadow Force,Tipo fantasma,Clase físico
+435,Golpes furia,Fury Swipes,Tipo normal,Clase físico
+436,Gota vital,Life Dew,Tipo agua,Clase de estado
+437,Gran ojo,Miracle Eye,Tipo psíquico,Clase de estado
+438,Granizo,Hail,Tipo hielo,Clase de estado
+439,Gravedad,Gravity,Tipo psíquico,Clase de estado
+440,Gruñido,Growl,Tipo normal,Clase de estado
+441,Guadaña sedosa,Savage Spin-Out,Tipo bicho,Clase físico
+442,Guardia baja,Chip Away,Tipo normal,Clase físico
+443,Guillotina,Guillotine,Tipo normal,Clase físico
+444,Hachazo pétreo,Stone Axe,Tipo roca,Clase físico
+445,Halloween,Trick-or-Treat,Tipo fantasma,Clase de estado
+446,Hecatombe pírica,Inferno Overdrive,Tipo fuego,Clase físico
+447,Hélice trepanadora,Corkscrew Crash,Tipo acero,Clase físico
+448,Hidroariete,Liquidation,Tipo agua,Clase físico
+449,Hidrobomba,Hydro Pump,Tipo agua,Clase especial
+450,Hidrocañón,Hydro Cannon,Tipo agua,Clase especial
+451,Hidrochorro,Water Sport,Tipo agua,Clase de estado
+452,Hidropulso,Water Pulse,Tipo agua,Clase especial
+453,Hidrovórtice abisal,Hydro Vortex,Tipo agua,Clase físico
+454,Hierba lazo,Grass Knot,Tipo planta,Clase especial
+455,Hilo venenoso,Toxic Thread,Tipo veneno,Clase de estado
+456,Hipercolmillo36,Hyper Fang,Tipo normal,Clase físico
+457,Hiperplancha oscura,Malicious Moonsault,Tipo siniestro,Clase físico
+458,Hiperrayo37,Hyper Beam,Tipo normal,Clase especial
+459,Hipnosis,Hypnosis,Tipo psíquico,Clase de estado
+460,Hoja afilada,Razor Leaf,Tipo planta,Clase físico
+461,Hoja aguda,Leaf Blade,Tipo planta,Clase físico
+462,Hoja mágica,Magical Leaf,Tipo planta,Clase especial
+463,Hora del té,Teatime,Tipo normal,Clase de estado
+464,Hueso palo,Bone Club,Tipo tierra,Clase físico
+465,Hueso sombrío,Shadow Bone,Tipo fantasma,Clase físico
+466,Huesomerang,Bonemerang,Tipo tierra,Clase físico
+467,Humareda,Lava Plume,Tipo fuego,Clase especial
+468,Ida y vuelta,U-turn,Tipo bicho,Clase físico
+469,Imagen,Facade,Tipo normal,Clase físico
+470,Imitación,Role Play,Tipo psíquico,Clase de estado
+471,Impactrueno,Thunder Shock,Tipo eléctrico,Clase especial
+472,Impresionar,Astonish,Tipo fantasma,Clase físico
+473,Infierno,Inferno,Tipo fuego,Clase especial
+474,Infortunio,Hex,Tipo fantasma,Clase especial
+475,Intercambio,Skill Swap,Tipo psíquico,Clase de estado
+476,Inversión,Reversal,Tipo lucha,Clase físico
+477,Irreverencia,False Surrender,Tipo siniestro,Clase físico
+478,Isofuerza,Power Split,Tipo psíquico,Clase de estado
+479,Isoguardia,Guard Split,Tipo psíquico,Clase de estado
+480,Joltioparálisis,Buzzy Buzz,Tipo eléctrico,Clase especial
+481,Joya de luz,Power Gem,Tipo roca,Clase especial
+482,Juego sucio,Foul Play,Tipo siniestro,Clase físico
+483,Kinético,Kinesis,Tipo psíquico,Clase de estado
+484,Ladrón,Thief,Tipo siniestro,Clase físico
+485,Lanzallamas,Flamethrower,Tipo fuego,Clase especial
+486,Lanzamiento,Fling,Tipo siniestro,Clase físico
+487,Lanzamugre38,Gunk Shot,Tipo veneno,Clase físico
+488,Lanzarrocas39,Rock Throw,Tipo roca,Clase físico
+489,Lariat oscuro,Darkest Lariat,Tipo siniestro,Clase físico
+490,Láser prisma,Prismatic Laser,Tipo psíquico,Clase especial
+491,Latigazo,Power Whip,Tipo planta,Clase físico
+492,Látigo,Tail Whip,Tipo normal,Clase de estado
+493,Látigo cepa,Vine Whip,Tipo planta,Clase físico
+494,Látigo ígneo,Fire Lash,Tipo fuego,Clase físico
+495,Leafitobombas,Sappy Seed,Tipo planta,Clase físico
+496,Legado,Memento,Tipo siniestro,Clase de estado
+497,Lengüetazo,Lick,Tipo fantasma,Clase físico
+498,Levitón,Magnet Rise,Tipo eléctrico,Clase de estado
+499,Liofilización,Freeze-Dry,Tipo hielo,Clase especial
+500,Llama azul,Blue Flare,Tipo fuego,Clase especial
+501,Llama embrujada,Mystical Fire,Tipo fuego,Clase especial
+502,Llama final,Burn Up,Tipo fuego,Clase especial
+503,Llama fusión,Fusion Flare,Tipo fuego,Clase especial
+504,Llama gélida,Ice Burn,Tipo hielo,Clase especial
+505,Llamarada,Fire Blast,Tipo fuego,Clase especial
+506,Llanto falso,Fake Tears,Tipo siniestro,Clase de estado
+507,Llave corsé,Storm Throw,Tipo lucha,Clase físico
+508,Llave giro,Circle Throw,Tipo lucha,Clase físico
+509,Lluevehojas,Leaf Storm,Tipo planta,Clase especial
+510,Lluvia ígnea,Magma Storm,Tipo fuego,Clase especial
+511,Luz aniquiladora,Light of Ruin,Tipo hada,Clase especial
+512,Luz lunar,Moonlight,Tipo hada,Clase de estado
+513,Machada,Hammer Arm,Tipo lucha,Clase físico
+514,Magnitud,Magnitude,Tipo tierra,Clase físico
+515,Mal de ojo,Mean Look,Tipo normal,Clase de estado
+516,Maldición,Curse,Tipo fantasma,Clase de estado
+517,Malicioso,Leer,Tipo normal,Clase de estado
+518,Mandato,Instruct,Tipo psíquico,Clase de estado
+519,Manos juntas,Hold Hands,Tipo normal,Clase de estado
+520,Manto espejo,Mirror Coat,Tipo psíquico,Clase especial
+521,Maquinación,Nasty Plot,Tipo siniestro,Clase de estado
+522,Marcha espectral,Infernal Parade,Tipo fantasma,Clase especial
+523,Martillazo,Crabhammer,Tipo agua,Clase físico
+524,Martillo dragón,Dragon Hammer,Tipo dragón,Clase físico
+525,Martillo hielo,Ice Hammer,Tipo hielo,Clase físico
+526,Más psique,Psych Up,Tipo normal,Clase de estado
+527,Masa cósmica,Cosmic Power,Tipo psíquico,Clase de estado
+528,Maxiácido,Max Ooze,Tipo veneno,Clase físico
+529,Maxiataque,Max Strike,Tipo normal,Clase físico
+530,Maxibarrera,Max Guard,Tipo normal,Clase de estado
+531,Maxichorro,Max Geyser,Tipo agua,Clase físico
+532,Maxiciclón,Max Airstream,Tipo volador,Clase físico
+533,Maxidraco,Max Wyrmwind,Tipo dragón,Clase físico
+534,Maxiespectro,Max Phantasm,Tipo fantasma,Clase físico
+535,Maxiestela,Max Starfall,Tipo hada,Clase físico
+536,Maxiflora,Max Overgrowth,Tipo planta,Clase físico
+537,Maxignición,Max Flare,Tipo fuego,Clase físico
+538,Maxihelada,Max Hailstorm,Tipo hielo,Clase físico
+539,Maxilito,Max Rockfall,Tipo roca,Clase físico
+540,Maximetal,Max Steelspike,Tipo acero,Clase físico
+541,Maxinsecto,Max Flutterby,Tipo bicho,Clase físico
+542,Maxionda,Max Mindstorm,Tipo psíquico,Clase físico
+543,Maxipuño,Max Knuckle,Tipo lucha,Clase físico
+544,Maxisombra,Max Darkness,Tipo siniestro,Clase físico
+545,Maxitemblor,Max Quake,Tipo tierra,Clase físico
+546,Maxitormenta,Max Lightning,Tipo eléctrico,Clase físico
+547,Mazazo,Wood Hammer,Tipo planta,Clase físico
+548,Meditación,Meditate,Tipo psíquico,Clase de estado
+549,Megaagotar,Mega Drain,Tipo planta,Clase especial
+550,Megacuerno,Megahorn,Tipo bicho,Clase físico
+551,Megapatada41,Mega Kick,Tipo normal,Clase físico
+552,Megapuño42,Mega Punch,Tipo normal,Clase físico
+553,Megatón floral,Bloom Doom,Tipo planta,Clase físico
+554,Metaláser,Steel Beam,Tipo acero,Clase especial
+555,Meteoimpacto,Sunsteel Strike,Tipo acero,Clase físico
+556,Meteorobola,Weather Ball,Tipo normal,Clase especial
+557,Metrónomo,Metronome,Tipo normal,Clase de estado
+558,Mil flechas,Thousand Arrows,Tipo tierra,Clase físico
+559,Mil púas tóxicas,Barb Barrage,Tipo veneno,Clase físico
+560,Mil temblores,Thousand Waves,Tipo tierra,Clase físico
+561,Mimético,Mimic,Tipo normal,Clase de estado
+562,Mirada heladora,Freezing Glare,Tipo psíquico,Clase especial
+563,Mismo destino43,Destiny Bond,Tipo fantasma,Clase de estado
+564,Mofa,Taunt,Tipo siniestro,Clase de estado
+565,Moflete estático,Nuzzle,Tipo eléctrico,Clase físico
+566,Moluscañón,Shell Side Arm,Tipo veneno,Clase especial
+567,Mordisco,Bite,Tipo siniestro,Clase físico
+568,Motivación,Coaching,Tipo lucha,Clase de estado
+569,Multiataque,Multi-Attack,Tipo normal,Clase físico
+570,Mundo gélido,Glaciate,Tipo hielo,Clase especial
+571,Neblina,Mist,Tipo hielo,Clase de estado
+572,Niebla,Haze,Tipo hielo,Clase de estado
+573,Niebla aromática,Aromatic Mist,Tipo hada,Clase de estado
+574,Niebla clara44,Clear Smog,Tipo veneno,Clase especial
+575,Nieve polvo,Powder Snow,Tipo hielo,Clase especial
+576,Nitrocarga,Flame Charge,Tipo fuego,Clase físico
+577,Novena potencia,Extreme Evoboost,Tipo normal,Clase de estado
+578,Núcleo castigo,Core Enforcer,Tipo dragón,Clase especial
+579,Obstrucción,Obstruct,Tipo siniestro,Clase de estado
+580,Octopresa,Octolock,Tipo lucha,Clase de estado
+581,Ofrenda,Bestow,Tipo normal,Clase de estado
+582,Ojitos tiernos,Baby-Doll Eyes,Tipo hada,Clase de estado
+583,Ojos llorosos,Tearful Look,Tipo normal,Clase de estado
+584,Onda anómala,Eerie Impulse,Tipo eléctrico,Clase de estado
+585,Onda certera,Focus Blast,Tipo lucha,Clase especial
+586,Onda ígnea,Heat Wave,Tipo fuego,Clase especial
+587,Onda mental,Psystrike,Tipo psíquico,Clase especial
+588,Onda simple,Simple Beam,Tipo normal,Clase de estado
+589,Onda tóxica,Sludge Wave,Tipo veneno,Clase especial
+590,Onda trueno,Thunder Wave,Tipo eléctrico,Clase de estado
+591,Onda vacío,Vacuum Wave,Tipo lucha,Clase especial
+592,Onda voltio,Shock Wave,Tipo eléctrico,Clase especial
+593,Otra vez,Encore,Tipo normal,Clase de estado
+594,Paga extra,Happy Hour,Tipo normal,Clase de estado
+595,Pájaro osado,Brave Bird,Tipo volador,Clase físico
+596,Paliza,Beat Up,Tipo siniestro,Clase físico
+597,Palmeo,Force Palm,Tipo lucha,Clase físico
+598,Pantalla de humo45,Smokescreen,Tipo normal,Clase de estado
+599,Pantalla de luz46,Light Screen,Tipo psíquico,Clase de estado
+600,Paralizador,Stun Spore,Tipo planta,Clase de estado
+601,Paranormal,Extrasensory,Tipo psíquico,Clase especial
+602,Paso dimensional,Hyperspace Hole,Tipo psíquico,Clase especial
+603,Patada baja,Low Kick,Tipo lucha,Clase físico
+604,Patada giro,Rolling Kick,Tipo lucha,Clase físico
+605,Patada ígnea,Blaze Kick,Tipo fuego,Clase físico
+606,Patada relámpago,Thunderous Kick,Tipo lucha,Clase físico
+607,Patada salto,Jump Kick,Tipo lucha,Clase físico
+608,Patada salto alta,High Jump Kick,Tipo lucha,Clase físico
+609,Patada tropical,Trop Kick,Tipo planta,Clase físico
+610,Pataleta,Stomping Tantrum,Tipo tierra,Clase físico
+611,Paz mental,Calm Mind,Tipo psíquico,Clase de estado
+612,Pedrada,Rock Blast,Tipo roca,Clase físico
+613,Perforador,Horn Drill,Tipo normal,Clase físico
+614,Persecución,Pursuit,Tipo siniestro,Clase físico
+615,Pesadilla,Nightmare,Tipo fantasma,Clase de estado
+616,Picado supersónico,Supersonic Skystrike,Tipo volador,Clase físico
+617,Picadura,Bug Bite,Tipo bicho,Clase físico
+618,Pico cañón,Beak Blast,Tipo volador,Clase físico
+619,Pico taladro,Drill Peck,Tipo volador,Clase físico
+620,Picotazo,Peck,Tipo volador,Clase físico
+621,Picotazo veneno,Poison Sting,Tipo veneno,Clase físico
+622,Picoteo,Pluck,Tipo volador,Clase físico
+623,Pikapicado,Floaty Fall,Tipo volador,Clase físico
+624,Pikatormenta,Pika Papow,Tipo eléctrico,Clase especial
+625,Pikaturbo,Zippy Zap,Tipo eléctrico,Clase físico
+626,Pikavoltio letal,Catastropika,Tipo eléctrico,Clase físico
+627,Pin misil,Pin Missile,Tipo bicho,Clase físico
+628,Piñón auxiliar,Gear Up,Tipo acero,Clase de estado
+629,Pirotecnia,Flame Burst,Tipo fuego,Clase especial
+630,Pisotón,Stomp,Tipo normal,Clase físico
+631,Pistola agua,Water Gun,Tipo agua,Clase especial
+632,Placaje,Tackle,Tipo normal,Clase físico
+633,Placaje eléctrico,Volt Tackle,Tipo eléctrico,Clase físico
+634,Plancha,Lunge,Tipo bicho,Clase físico
+635,Plancha corporal,Body Press,Tipo lucha,Clase físico
+636,Plancha voladora,Flying Press,Tipo lucha,Clase físico
+637,Planta feroz,Frenzy Plant,Tipo planta,Clase especial
+638,Plegaria lunar,Lunar Blessing,Tipo psíquico,Clase de estado
+639,Plumerazo,Tail Slap,Tipo normal,Clase físico
+640,Poder místico,Mystical Power,Tipo psíquico,Clase especial
+641,Poder oculto,Hidden Power,Tipo normal,Clase especial
+642,Poder pasado,Ancient Power,Tipo roca,Clase especial
+643,Poder reserva,Stored Power,Tipo psíquico,Clase especial
+644,Poltergeist,Poltergeist,Tipo fantasma,Clase físico
+645,Polución,Smog,Tipo veneno,Clase especial
+646,Polvo explosivo,Powder,Tipo bicho,Clase de estado
+647,Polvo ira,Rage Powder,Tipo bicho,Clase de estado
+648,Polvo mágico,Magic Powder,Tipo psíquico,Clase de estado
+649,Polvo veneno,Poison Powder,Tipo veneno,Clase de estado
+650,Premonición,Future Sight,Tipo psíquico,Clase especial
+651,Presa espectral,Never-Ending Nightmare,Tipo fantasma,Clase físico
+652,Presa maxilar,Jaw Lock,Tipo siniestro,Clase físico
+653,Presente,Present,Tipo normal,Clase físico
+654,Profecía,Foresight,Tipo normal,Clase de estado
+655,Protección,Protect,Tipo normal,Clase de estado
+656,Psicoataque,Psycho Boost,Tipo psíquico,Clase especial
+657,Psicocambio47,Psycho Shift,Tipo psíquico,Clase de estado
+658,Psicocarga,Psyshock,Tipo psíquico,Clase especial
+659,Psicocolmillo,Psychic Fangs,Tipo psíquico,Clase físico
+660,Psicocorte48,Psycho Cut,Tipo psíquico,Clase físico
+661,Psicoonda49,Psywave,Tipo psíquico,Clase especial
+662,Psicorrayo50,Psybeam,Tipo psíquico,Clase especial
+663,Psíquico,Psychic,Tipo psíquico,Clase especial
+664,Púas,Spikes,Tipo tierra,Clase de estado
+665,Púas tóxicas,Toxic Spikes,Tipo veneno,Clase de estado
+666,Pulimento,Rock Polish,Tipo roca,Clase de estado
+667,Pulpocañón,Octazooka,Tipo agua,Clase especial
+668,Pulso cura,Heal Pulse,Tipo psíquico,Clase de estado
+669,Pulso de campo,Terrain Pulse,Tipo normal,Clase especial
+670,Pulso dragón,Dragon Pulse,Tipo dragón,Clase especial
+671,Pulso noche,Night Daze,Tipo siniestro,Clase especial
+672,Pulso primigenio,Origin Pulse,Tipo agua,Clase especial
+673,Pulso umbrío,Dark Pulse,Tipo siniestro,Clase especial
+674,Puntada sombría,Spirit Shackle,Tipo fantasma,Clase físico
+675,Puntapié,Low Sweep,Tipo lucha,Clase físico
+676,Punzada rama,Branch Poke,Tipo planta,Clase físico
+677,Puño bala,Bullet Punch,Tipo acero,Clase físico
+678,Puño certero,Focus Punch,Tipo lucha,Clase físico
+679,Puño cometa,Comet Punch,Tipo normal,Clase físico
+680,Puño dinámico51,Dynamic Punch,Tipo lucha,Clase físico
+681,Puño drenaje,Drain Punch,Tipo lucha,Clase físico
+682,Puño fuego,Fire Punch,Tipo fuego,Clase físico
+683,Puño hielo,Ice Punch,Tipo hielo,Clase físico
+684,Puño incremento,Power-Up Punch,Tipo lucha,Clase físico
+685,Puño mareo,Dizzy Punch,Tipo normal,Clase físico
+686,Puño meteoro,Meteor Mash,Tipo acero,Clase físico
+687,Puño sombra,Shadow Punch,Tipo fantasma,Clase físico
+688,Puño trueno,Thunder Punch,Tipo eléctrico,Clase físico
+689,Puños plasma,Plasma Fists,Tipo eléctrico,Clase físico
+690,Purificación,Purify,Tipo veneno,Clase de estado
+691,Puya nociva,Poison Jab,Tipo veneno,Clase físico
+692,Rabia,Grudge,Tipo fantasma,Clase de estado
+693,Ráfaga,Tail Glow,Tipo bicho,Clase de estado
+694,Ráfaga demoledora,All-Out Pummeling,Tipo lucha,Clase físico
+695,Ráfaga escamas,Scale Shot,Tipo dragón,Clase físico
+696,Rapidez,Swift,Tipo normal,Clase especial
+697,Rastreo,Odor Sleuth,Tipo normal,Clase de estado
+698,Rayo,Thunderbolt,Tipo eléctrico,Clase especial
+699,Rayo aurora,Aurora Beam,Tipo hielo,Clase especial
+700,Rayo burbuja,Bubble Beam,Tipo agua,Clase especial
+701,Rayo carga,Charge Beam,Tipo eléctrico,Clase especial
+702,Rayo confuso,Confuse Ray,Tipo fantasma,Clase de estado
+703,Rayo fusión,Fusion Bolt,Tipo eléctrico,Clase físico
+704,Rayo gélido,Freeze Shock,Tipo hielo,Clase físico
+705,Rayo hielo,Ice Beam,Tipo hielo,Clase especial
+706,Rayo infinito,Eternabeam,Tipo dragón,Clase especial
+707,Rayo meteórico,Meteor Beam,Tipo roca,Clase especial
+708,Rayo solar,Solar Beam,Tipo planta,Clase especial
+709,Rayo umbrío,Moongeist Beam,Tipo fantasma,Clase especial
+710,Reciclaje,Recycle,Tipo normal,Clase de estado
+711,Recogearena,Shore Up,Tipo tierra,Clase de estado
+712,Recuperación,Recover,Tipo normal,Clase de estado
+713,Red viscosa,Sticky Web,Tipo bicho,Clase de estado
+714,Reducción,Minimize,Tipo normal,Clase de estado
+715,Reflejo,Reflect,Tipo psíquico,Clase de estado
+716,Refuerzo,Helping Hand,Tipo normal,Clase de estado
+717,Refugio,Withdraw,Tipo agua,Clase de estado
+718,Relajo,Slack Off,Tipo normal,Clase de estado
+719,Relevo,Baton Pass,Tipo normal,Clase de estado
+720,Remolino,Whirlwind,Tipo normal,Clase de estado
+721,Rencor,Spite,Tipo fantasma,Clase de estado
+722,Rencor reprimido,Bitter Malice,Tipo fantasma,Clase especial
+723,Represalia,Retaliate,Tipo normal,Clase físico
+724,Represión metal,Metal Burst,Tipo acero,Clase físico
+725,Reserva,Stockpile,Tipo normal,Clase de estado
+726,Residuos,Sludge,Tipo veneno,Clase especial
+727,Respiro,Roost,Tipo volador,Clase de estado
+728,Resplandor,Luster Purge,Tipo psíquico,Clase especial
+729,Restricción,Constrict,Tipo normal,Clase físico
+730,Retracción,Shelter,Tipo acero,Clase de estado
+731,Retribución52,Return,Tipo normal,Clase físico
+732,Reversión,Topsy-Turvy,Tipo siniestro,Clase de estado
+733,Rizo algodón,Cotton Guard,Tipo planta,Clase de estado
+734,Rizo defensa,Defense Curl,Tipo normal,Clase de estado
+735,Robasombra,Spectral Thief,Tipo fantasma,Clase físico
+736,Robo,Snatch,Tipo siniestro,Clase de estado
+737,Roca afilada,Stone Edge,Tipo roca,Clase físico
+738,Roca veloz,Accelerock,Tipo roca,Clase físico
+739,Rodar53,Rollout,Tipo roca,Clase físico
+740,Rodillo de púas54,Steamroller,Tipo bicho,Clase físico
+741,Rompecoraza,Shell Smash,Tipo normal,Clase de estado
+742,Romperrocas,Rock Wrecker,Tipo roca,Clase físico
+743,Ronquido,Snore,Tipo normal,Clase especial
+744,Rueda aural,Aura Wheel,Tipo eléctrico,Clase físico
+745,Rueda doble,Gear Grind,Tipo acero,Clase físico
+746,Rueda fuego,Flame Wheel,Tipo fuego,Clase físico
+747,Rugido,Roar,Tipo normal,Clase de estado
+748,Rugido de guerra,Noble Roar,Tipo normal,Clase de estado
+749,Sable místico55,Secret Sword,Tipo lucha,Clase especial
+750,Sacrificio,Final Gambit,Tipo lucha,Clase especial
+751,Salmuera,Brine,Tipo agua,Clase especial
+752,Salpicadura,Splash,Tipo normal,Clase de estado
+753,Salpicar,Water Spout,Tipo agua,Clase especial
+754,Salpikasurf,Splishy Splash,Tipo agua,Clase especial
+755,Seducción,Captivate,Tipo normal,Clase de estado
+756,Sellar56,Imprison,Tipo psíquico,Clase de estado
+757,Semilladora57,Bullet Seed,Tipo planta,Clase físico
+758,Sentencia,Judgment,Tipo normal,Clase especial
+759,Señuelo,Follow Me,Tipo normal,Clase de estado
+760,Shuriken de agua,Water Shuriken,Tipo agua,Clase físico
+761,Silbato,Grass Whistle,Tipo planta,Clase de estado
+762,Simún de arena,Sandsear Storm,Tipo tierra,Clase especial
+763,Sincrorruido,Synchronoise,Tipo psíquico,Clase especial
+764,Sinfonía de la diva marina,Oceanic Operetta,Tipo agua,Clase especial
+765,Síntesis,Synthesis,Tipo planta,Clase de estado
+766,Sísmico58,Seismic Toss,Tipo lucha,Clase físico
+767,Sofoco,Overheat,Tipo fuego,Clase especial
+768,Sol matinal,Morning Sun,Tipo normal,Clase de estado
+769,Somanta amistosa,Let's Snuggle Forever,Tipo hada,Clase físico
+770,Sombra vil,Shadow Sneak,Tipo fantasma,Clase físico
+771,Somnífero,Sleep Powder,Tipo planta,Clase de estado
+772,Sonámbulo,Sleep Talk,Tipo normal,Clase de estado
+773,Sorpresa,Fake Out,Tipo normal,Clase físico
+774,Sumisión,Submission,Tipo lucha,Clase físico
+775,Superdiente,Super Fang,Tipo normal,Clase físico
+776,Supernova original,Genesis Supernova,Tipo psíquico,Clase especial
+777,Supersónico,Supersonic,Tipo normal,Clase de estado
+778,Surf,Surf,Tipo agua,Clase especial
+779,Surfeo galvánico,Stoked Sparksurfer,Tipo eléctrico,Clase especial
+780,Sustituto,Substitute,Tipo normal,Clase de estado
+781,Sylveotornado,Sparkly Swirl,Tipo hada,Clase especial
+782,Tajo aéreo,Air Slash,Tipo volador,Clase especial
+783,Tajo cruzado,Cross Chop,Tipo lucha,Clase físico
+784,Tajo metralla,Ceaseless Edge,Tipo siniestro,Clase físico
+785,Tajo supremo,Behemoth Blade,Tipo acero,Clase físico
+786,Tajo umbrío,Night Slash,Tipo siniestro,Clase físico
+787,Taladradora,Drill Run,Tipo tierra,Clase físico
+788,Tambor,Belly Drum,Tipo normal,Clase de estado
+789,Tecno shock,Techno Blast,Tipo normal,Clase especial
+790,Telaraña,Spider Web,Tipo bicho,Clase de estado
+791,Telépata,Mind Reader,Tipo normal,Clase de estado
+792,Telequinesis,Telekinesis,Tipo psíquico,Clase de estado
+793,Teletransporte,Teleport,Tipo psíquico,Clase de estado
+794,Tempestad rocosa,Splintered Stormshards,Tipo roca,Clase físico
+795,Tenaza,Clamp,Tipo agua,Clase físico
+796,Teraexplosión,Tera Blast,Tipo normal,Clase físico
+797,Terratemblor,Bulldoze,Tipo tierra,Clase físico
+798,Terremoto,Earthquake,Tipo tierra,Clase físico
+799,Testarazo,Head Smash,Tipo roca,Clase físico
+800,Tierra viva,Earth Power,Tipo tierra,Clase especial
+801,Tijera X,X-Scissor,Tipo bicho,Clase físico
+802,Tinieblas,Night Shade,Tipo fantasma,Clase especial
+803,Tiro vital,Vital Throw,Tipo lucha,Clase físico
+804,Torbellino,Whirlpool,Tipo agua,Clase especial
+805,Tormenta de arena59,Sandstorm,Tipo roca,Clase de estado
+806,Tormenta de diamantes,Diamond Storm,Tipo roca,Clase físico
+807,Tormenta floral,Petal Blizzard,Tipo planta,Clase físico
+808,Tormento,Torment,Tipo siniestro,Clase de estado
+809,Tornado,Gust,Tipo volador,Clase especial
+810,Tóxico,Toxic,Tipo veneno,Clase de estado
+811,Tragar,Swallow,Tipo normal,Clase de estado
+812,Trampa rocas,Stealth Rock,Tipo roca,Clase de estado
+813,Trampa venenosa,Venom Drench,Tipo veneno,Clase de estado
+814,Transformación,Transform,Tipo normal,Clase de estado
+815,Trapicheo,Switcheroo,Tipo siniestro,Clase de estado
+816,Treparrocas,Rock Climb,Tipo normal,Clase físico
+817,Triataque60,Tri Attack,Tipo normal,Clase especial
+818,Triple axel,Triple Axel,Tipo hielo,Clase físico
+819,Triple flecha,Triple Arrows,Tipo lucha,Clase físico
+820,Triple patada61,Triple Kick,Tipo lucha,Clase físico
+821,Triturar,Crunch,Tipo siniestro,Clase físico
+822,Truco,Trick,Tipo psíquico,Clase de estado
+823,Truco defensa,Crafty Shield,Tipo hada,Clase de estado
+824,Truco fuerza,Power Trick,Tipo psíquico,Clase de estado
+825,Trueno,Thunder,Tipo eléctrico,Clase especial
+826,Tumba rocas,Rock Tomb,Tipo roca,Clase físico
+827,Última baza,Last Resort,Tipo normal,Clase físico
+828,Última palabra,Parting Shot,Tipo siniestro,Clase de estado
+829,Último lugar,Quash,Tipo siniestro,Clase de estado
+830,Ultrapuño,Mach Punch,Tipo lucha,Clase físico
+831,Umbreozona,Baddy Bad,Tipo siniestro,Clase especial
+832,V de fuego,V-create,Tipo fuego,Clase físico
+833,Vaho gélido,Frost Breath,Tipo hielo,Clase especial
+834,Vapodrenaje,Bouncy Bubble,Tipo agua,Clase especial
+835,Vasta fuerza,Expanding Force,Tipo psíquico,Clase especial
+836,Vastaguardia,Wide Guard,Tipo roca,Clase de estado
+837,Vasto impacto,Breaking Swipe,Tipo dragón,Clase físico
+838,Velo aurora,Aurora Veil,Tipo hielo,Clase de estado
+839,Velo sagrado,Safeguard,Tipo normal,Clase de estado
+840,Velocidad extrema,Extreme Speed,Tipo normal,Clase físico
+841,Vendaval,Hurricane,Tipo volador,Clase especial
+842,Vendaval gélido,Bleakwind Storm,Tipo volador,Clase especial
+843,Vendetta,Payback,Tipo siniestro,Clase físico
+844,Veneno X,Cross Poison,Tipo veneno,Clase físico
+845,Venganza,Bide,Tipo normal,Clase físico
+846,Ventisca,Blizzard,Tipo hielo,Clase especial
+847,Viento aciago,Ominous Wind,Tipo fantasma,Clase especial
+848,Viento afín,Tailwind,Tipo volador,Clase de estado
+849,Viento cortante,Razor Wind,Tipo normal,Clase especial
+850,Viento feérico,Fairy Wind,Tipo hada,Clase especial
+851,Viento hielo,Icy Wind,Tipo hielo,Clase especial
+852,Viento carámbano,Mountain Gale,Tipo hielo,Clase físico
+853,Viento plata,Silver Wind,Tipo bicho,Clase especial
+854,Viraje,Flip Turn,Tipo agua,Clase físico
+855,Voltio cruel,Wild Charge,Tipo eléctrico,Clase físico
+856,Voltiocambio,Volt Switch,Tipo eléctrico,Clase especial
+857,Voto agua,Water Pledge,Tipo agua,Clase especial
+858,Voto fuego,Fire Pledge,Tipo fuego,Clase especial
+859,Voto planta,Grass Pledge,Tipo planta,Clase especial
+860,Voz cautivadora,Disarming Voice,Tipo hada,Clase especial
+861,Vozarrón,Hyper Voice,Tipo normal,Clase especial
+862,Vuelo,Fly,Tipo volador,Clase físico
+863,Yo primero,Me First,Tipo normal,Clase de estado
+864,Zona extraña,Wonder Room,Tipo psíquico,Clase de estado
+865,Zona mágica,Magic Room,Tipo psíquico,Clase de estado
+866,Zumbido,Bug Buzz,Tipo bicho,Clase especial
